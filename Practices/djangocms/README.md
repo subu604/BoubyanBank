@@ -43,7 +43,7 @@ How to setup the environment (Installing Python packages)
 
 pip install djangocms-installer
 
-pip install -r requitements.txt
+pip install -r requirements.txt
 
 ## How to run the application
     `python manage.py runserver'
